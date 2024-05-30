@@ -1,7 +1,7 @@
 <h1 align="center">Retrieval and Generation of Clinical Insights from PDF</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=5000&pause=5000&color=007BFF&background=00000000&center=true&vCenter=true&width=435&lines=Retrieval-Augmented+Fine-Tung+System;Unified+Question+Answering+Framework" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=5000&pause=5000&color=007BFF&background=00000000&center=true&vCenter=true&width=435&lines=Retrieval-Augmented+Fine-Tuning+System;Unified+Question+Answering+Framework" alt="Typing SVG" />
 </p>
 
 <p align="center">
