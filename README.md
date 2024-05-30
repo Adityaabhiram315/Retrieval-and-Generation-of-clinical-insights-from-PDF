@@ -12,8 +12,12 @@
     <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-0.4.24-orange.svg">
     <img alt="Google Palm" src="https://img.shields.io/badge/Google-Palm-FFCC00.svg">
 </p>
+
+<p align= "center">
+    
 ![rag](https://github.com/Adityaabhiram315/Retrieval-and-Generation-of-clinical-insights-from-PDF/assets/95640107/a15b3f4d-2eba-4ca5-8fe6-bbda7ea92cae)
 
+</p>
 
 ## Table of Contents
 - [Overview](#overview)
