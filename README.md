@@ -6,7 +6,6 @@
 
 <p align="center">
     <img alt="Python Version" src="https://img.shields.io/badge/python-3.11.5-green.svg">
-    <img alt="Last Commit" src="https://img.shields.io/badge/last_commit-April_2024-green.svg">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg">
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0.1.16-blue.svg">
     <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-0.4.24-orange.svg">
